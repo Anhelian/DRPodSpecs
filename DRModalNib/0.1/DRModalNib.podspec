@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.author       = { "DRModalNib" => "denisromashow@gmail.com" }
   s.source       = { :git => "https://github.com/DenisRomashow/DRModalNib.git", :tag => s.version.to_s }
 
-  s.source_files  = 'CircleProgress/Code/**/*.{h,m}'
+  s.source_files  = 'ModalNib/Code/**/*.{h,m}'
   s.requires_arc = true
   
 end
